@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.exe
+C:\Users\pc\Desktop\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.deps.json
+C:\Users\pc\Desktop\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.runtimeconfig.json
+C:\Users\pc\Desktop\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.runtimeconfig.dev.json
+C:\Users\pc\Desktop\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.dll
+C:\Users\pc\Desktop\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.pdb
+C:\Users\pc\Desktop\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.AssemblyInfo.cs
+C:\Users\pc\Desktop\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.dll
+C:\Users\pc\Desktop\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.pdb
+C:\Users\pc\Desktop\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.genruntimeconfig.cache
